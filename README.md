@@ -3,7 +3,7 @@
 팀원 : [허명범](https://github.com/MyungBeomHer)
 
 ### 프로젝트 주제 (연세대학교 인공지능 수업)
-문체 모방기
+AI기반 문체 모방기
 
 ### 프로젝트 언어 및 환경
 프로젝트 언어 : Tensorflow
@@ -33,16 +33,11 @@ tf.keras.layers.TimeDistributed(tf.keras.layers.Dense(max_id,
 ## Result
 ### Overall Accuracy 
 <p align="center">
-  <img src="/figure/acc.png" width=100%> <br>
+  <img src="/figure/overall_accuracy.png" width=100%> <br>
 </p>
 
-### validation loss 
+### Style litmitation Result
 <p align="center">
-  <img src="/figure/loss.png" width=100%> <br>
-</p>
-
-### Confusion Matrix 
-<p align="center">
-  <img src="/figure/confusion matrix.png" width=100%> <br>
+  <img src="/figure/result.png" width=100%> <br>
 </p>
 
